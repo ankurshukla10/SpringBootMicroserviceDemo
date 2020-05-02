@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da65bd6-e03b-4906-827a-d3f6c089419d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/microservices/limitsservice/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/microservices/limitsservice/LimitsConfigurationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ankur/microservices/limitsservice/bean/LimitConfiguration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bM5ANOPKKstKjfpMZcM0zkHtae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="15" />
+    <property name="RequestMappingsPanelWidth1" value="15" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ankur.microservices.limitsservice.bean" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LimitsServiceApplication">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="limits-service" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="limits-service" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.microservices.springcloudconfigserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ankur.microservices.springcloudconfigserver" />
+      <option name="MAIN_CLASS_NAME" value="com.ankur.microservices.springcloudconfigserver.SpringCloudConfigServerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="limits-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankur.microservices.limitsservice.LimitsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ankur.microservices.springcloudconfigserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankur.microservices.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MicroservicesWithSpringBootAndSpringCloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ankur.microservices.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringCloudConfigServerApplication (1)" />
+        <item itemvalue="JUnit.SpringCloudConfigServerApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da65bd6-e03b-4906-827a-d3f6c089419d" name="Default Changelist" comment="" />
+      <created>1588428977857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588428977857</updated>
+      <workItem from="1588428985173" duration="3062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="23" width="1026" height="823" key="#Project_Structure" timestamp="1588438710706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="207" y="23" width="1026" height="823" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1588438710706" />
+    <state x="532" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1588437696310">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="532" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588437696310" />
+    <state width="1396" height="325" key="GridCell.Tab.0.bottom" timestamp="1588440319090">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588440319090" />
+    <state width="1396" height="325" key="GridCell.Tab.0.center" timestamp="1588440319089">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588440319089" />
+    <state width="1396" height="325" key="GridCell.Tab.0.left" timestamp="1588440319088">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588440319088" />
+    <state width="1396" height="325" key="GridCell.Tab.0.right" timestamp="1588440319089">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588440319089" />
+    <state width="1396" height="325" key="GridCell.Tab.1.bottom" timestamp="1588440319092">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588440319092" />
+    <state width="1396" height="325" key="GridCell.Tab.1.center" timestamp="1588440319091">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588440319091" />
+    <state width="1396" height="325" key="GridCell.Tab.1.left" timestamp="1588440319090">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588440319090" />
+    <state width="1396" height="325" key="GridCell.Tab.1.right" timestamp="1588440319091">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="325" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588440319091" />
+    <state x="0" y="61" key="new project wizard" timestamp="1588438066989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="61" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1588438066989" />
+    <state x="384" y="209" width="672" height="677" key="run.anything.popup" timestamp="1588439174306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="384" y="209" width="672" height="677" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1588439174306" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1588439465400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588439465399" />
+  </component>
+</project>
