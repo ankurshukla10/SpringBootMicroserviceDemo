@@ -11,12 +11,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="currency-exchange-service" target="1.8" />
       <module name="limits-service" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="currency-exchange-service" options="-parameters" />
       <module name="limits-service" options="-parameters" />
       <module name="spring-cloud-config-server" options="-parameters" />
     </option>
