@@ -29,3 +29,12 @@ build/
 
 ### VS Code ###
 .vscode/
+### Mac files ###
+.DS_Store
+
+### mvn files ###
+currency-conversion-service/.mvn/wrapper/maven-wrapper.jar
+currency-conversion-service/.mvn/wrapper/maven-wrapper.properties
+
+limits-service/.idea/vcs.xml
+limits-service/.idea/workspace.xml
